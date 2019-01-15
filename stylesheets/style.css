@@ -1,9 +1,15 @@
 /* line 3, ../sass/style.scss */
 .parrafo {
-  width: 45%;
+  width: 48%;
+  line-height: 25px;
 }
 
-/* line 7, ../sass/style.scss */
+/* line 8, ../sass/style.scss */
 .avatar {
   width: 80%;
+}
+
+/* line 12, ../sass/style.scss */
+.borde {
+  border: 1px solid black !important;
 }
